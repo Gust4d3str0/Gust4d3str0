@@ -2,7 +2,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gust4d3str0/Gust4d3str0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust4d3str0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gust4d3str0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -33,16 +36,16 @@
 
 ###
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0M3lmdDRxdWdqdnUya3pkOGVqemw4Mmk3bnJld3dqaWxvNGl1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeSXccYMz3K4U/giphy.gif"  />
+<img align="right" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0M3lmdDRxdWdqdnUya3pkOGVqemw4Mmk3bnJld3dqaWxvNGl1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeSXccYMz3K4U/giphy.gif"  />
 
 ###
 
-<p align="left">💻</> Engenheiro de Computação em formação | Estudante do 4º ano de Engenharia de Computação com foco no aprendizado contínuo de programação e desenvolvimento de software.<br><br>📚 Cursos Recentes:<br><br>🐍Python: Avançando na Orientação a Objetos e no consumo de APIs.<br>☕Java: Aplicando Orientação a Objetos, consumindo APIs, gravando arquivos e lidando com erros, além de trabalhar com listas e coleções de dados.<br>🚀 Atualmente: Estou iniciando meus estudos em Django para aprofundar meu conhecimento em desenvolvimento web, enquanto ainda estou explorando para onde vou direcionar meus estudos em Java no futuro.<br><br>🔧 Tecnologias:<br></>  Linguagens: Java, Python<br></>   Frameworks: Django (em estudo)<br></>  Ferramentas: Git, Docker, APIs RESTful<br><br>🎯 Objetivo: Explorar tanto a programação backend quanto o desenvolvimento Full Stack, criando soluções completas e escaláveis, desde o servidor até a interface do usuário.</p>
+<h3 align="left">
+  💻</> Engenheiro de Computação em formação | Estudante do 4º ano de Engenharia de Computação com foco no aprendizado contínuo de programação e desenvolvimento de software.
+  <br><br>📚 Cursos Recentes:<br>🐍Python: Avançando na Orientação a Objetos e no consumo de APIs.<br>☕Java: Aplicando Orientação a Objetos, consumindo APIs, gravando arquivos e lidando com erros, além de trabalhar com listas e coleções de dados.<br>🚀 Atualmente: Estou iniciando meus estudos em Django para aprofundar meu conhecimento em desenvolvimento web, enquanto ainda estou explorando para onde vou direcionar meus estudos em Java no futuro.<br><br>🔧 Tecnologias:<br></>  Linguagens: Java, Python<br></>   Frameworks: Django (em estudo)<br></>  Ferramentas: Git, Docker, APIs RESTful<br><br>🎯 Objetivo: Explorar tanto a programação backend quanto o desenvolvimento Full Stack, criando soluções completas e escaláveis, desde o servidor até a interface do usuário.</h3>
 
 ###
 
-<div align="center">
-  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4anRpY2E5cjk4b3A3MXBwYWtuM2htNDR0a3AzZGV3MXpmOWttbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
-</div>
+<img align="left" height="700" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4anRpY2E5cjk4b3A3MXBwYWtuM2htNDR0a3AzZGV3MXpmOWttbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
 
 ###
