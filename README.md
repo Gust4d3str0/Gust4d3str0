@@ -16,12 +16,11 @@ Explorando desenvolvimento Back-end, Front-end, aplicações Desktop e Inteligê
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-femiano-594b28268/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gust4d3str0)
 
-### ⚔️ Explore minha jornada como desenvolvedor
+<img src="./setup.gif" alt="Quarto de trabalho em pixel art à noite, com computadores e vista da cidade" width="460" />
 
-[**Acessar meu portfólio interativo**](https://gust4d3str0.github.io/)
+*Código, criatividade e uma jornada em constante evolução.*
 
-Um portfólio profissional com identidade Dark Fantasy,
-árvore de habilidades interativa e apresentação dos meus projetos.
+**[⚔️ Explorar meu portfólio interativo](https://gust4d3str0.github.io/)**
 
 </div>
 
@@ -81,7 +80,7 @@ Outras tecnologias utilizadas em projetos: Tauri, Rust, WebRTC, APIs REST e inte
 
 Meu portfólio reúne projetos, trajetória profissional e uma árvore interativa de habilidades, com identidade visual inspirada em fantasia sombria.
 
-**[Conhecer Gustavo.dev](https://gust4d3str0.github.io/)** *(em publicação — endereço disponível após o deploy)*
+**[Conhecer Gustavo.dev](https://gust4d3str0.github.io/)**
 
 ---
 
@@ -184,7 +183,7 @@ Estudos relacionados aos conceitos e aplicações de Inteligência Artificial co
 
 Tenho interesse em oportunidades de estágio e desenvolvimento de software, além de colaboração em projetos de tecnologia.
 
-- 🌐 [Portfólio](https://gust4d3str0.github.io/) *(em publicação)*
+- 🌐 [Portfólio](https://gust4d3str0.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-femiano-594b28268/)
 - 📧 [E-mail](mailto:henriquefemiano@outlook.com)
 - 📍 Araraquara, São Paulo — Brasil
