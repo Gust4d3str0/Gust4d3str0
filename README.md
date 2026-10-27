@@ -18,7 +18,7 @@ Explorando desenvolvimento Back-end, Front-end, aplicações Desktop e Inteligê
 
 <img src="./setup.gif" alt="Quarto de trabalho em pixel art à noite, com computadores e vista da cidade" width="460" />
 
-*Código, criatividade e uma jornada em constante evolução.*
+<p align="center"><i>“A melhor maneira de prever o futuro é inventá-lo.”</i><br><sub>— Alan Kay</sub></p>
 
 **[⚔️ Explorar meu portfólio interativo](https://gust4d3str0.github.io/)**
 
