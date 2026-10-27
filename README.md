@@ -1,17 +1,22 @@
 
 <div align="center">
 
-# Olá, eu sou o Gustavo! 👋
+# Gustavo Henrique Femiano
 
-### 🎓 Engenharia da Computação | 💻 Desenvolvimento de Software | 🤖 Inteligência Artificial
+### Engenharia da Computação · Desenvolvimento de Software · Inteligência Artificial
 
 Estudante de Engenharia da Computação na UNIARA, apaixonado por tecnologia, programação e pela criação de soluções para problemas reais.
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-B99A5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gust4d3str0.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-femiano-594b28268/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gust4d3str0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquefemiano@outlook.com)
 
 </div>
+
+---
+
+**[Portfólio interativo — Gustavo.dev](https://gust4d3str0.github.io/)** · *Publicação em preparação*
 
 ---
 
@@ -64,6 +69,14 @@ Outras tecnologias utilizadas em projetos: Tauri, Rust, WebRTC, APIs REST e inte
 
 ---
 
+## 🌐 Portfólio pessoal
+
+Meu portfólio reúne projetos, trajetória profissional e uma árvore interativa de habilidades, com identidade visual inspirada em fantasia sombria.
+
+**[Conhecer Gustavo.dev](https://gust4d3str0.github.io/)** *(em publicação — endereço disponível após o deploy)*
+
+---
+
 ## 🚀 Projetos em destaque
 
 ### 🖥️ Pre-Live — Compartilhamento de Tela em Tempo Real
@@ -98,7 +111,7 @@ Aplicação web para criação e gerenciamento de fichas de personagens de RPG, 
 
 **Tecnologias:** JavaScript, Vite, Supabase e PostgreSQL.
 
-🌐 [Acessar aplicação](https://ascencao-rpg.vercel.app/)
+*Projeto apresentado sem link público para a aplicação.*
 
 ---
 
@@ -120,13 +133,13 @@ Projeto de Trabalho de Conclusão de Curso voltado à pesquisa e ao desenvolvime
 
 ---
 
-### 💧 HydroPulseAI — Monitoramento Hidráulico com IA
+### 💧 HydroPulseAI — Classificação de Falhas em Bombas Hidráulicas
 
-Sistema desenvolvido para explorar a aplicação de Inteligência Artificial na análise e previsão de possíveis falhas em sistemas hidráulicos.
+Sistema acadêmico que utiliza medidas de **pressão, vazão e temperatura** para identificar e classificar defeitos em bombas hidráulicas por meio de Machine Learning.
 
-O projeto utiliza dados simulados para apoiar análises, identificar padrões e gerar relatórios relacionados aos componentes monitorados.
+**Tecnologias:** Python, Django e Scikit-learn.
 
-**Áreas exploradas:** Desenvolvimento web, análise de dados, Machine Learning e aplicações de engenharia.
+**Recursos:** visualização de medições e gráficos, simulação de leituras, avaliação do modelo por matriz de confusão e geração de relatórios em PDF.
 
 ---
 
@@ -163,6 +176,7 @@ Estudos relacionados aos conceitos e aplicações de Inteligência Artificial co
 
 Tenho interesse em oportunidades de estágio e desenvolvimento de software, além de colaboração em projetos de tecnologia.
 
+- 🌐 [Portfólio](https://gust4d3str0.github.io/) *(em publicação)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-femiano-594b28268/)
 - 📧 [E-mail](mailto:henriquefemiano@outlook.com)
 - 📍 Araraquara, São Paulo — Brasil
