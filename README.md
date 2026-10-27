@@ -1,22 +1,30 @@
 
+
 <div align="center">
 
 # Gustavo Henrique Femiano
 
-### Engenharia da Computação · Desenvolvimento de Software · Inteligência Artificial
+### 💻 Desenvolvimento de Software | 🎓 Engenharia da Computação | 🤖 Inteligência Artificial
 
-Estudante de Engenharia da Computação na UNIARA, apaixonado por tecnologia, programação e pela criação de soluções para problemas reais.
+Desenvolvendo soluções reais com tecnologia, criatividade e aprendizado contínuo.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-B99A5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gust4d3str0.github.io/)
+Explorando desenvolvimento Back-end, Front-end, aplicações Desktop e Inteligência Artificial.
+
+**🚀 Aberto a oportunidades de estágio e desenvolvimento júnior.**
+
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-B99A5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gust4d3str0.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-femiano-594b28268/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gust4d3str0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquefemiano@outlook.com)
+
+### ⚔️ Explore minha jornada como desenvolvedor
+
+[**Acessar meu portfólio interativo**](https://gust4d3str0.github.io/)
+
+Um portfólio profissional com identidade Dark Fantasy,
+árvore de habilidades interativa e apresentação dos meus projetos.
 
 </div>
 
----
-
-**[Portfólio interativo — Gustavo.dev](https://gust4d3str0.github.io/)** · *Publicação em preparação*
 
 ---
 
